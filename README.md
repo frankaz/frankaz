@@ -1,5 +1,7 @@
 ### Hi, I'm Franklin 👋
 
+Tech-savvy and performance-driven professional with extensive and diverse experience in designing, developing, and implementing full-stack development strategies and web applications. Articulate and refined communicator with an aptitude for fostering long-term professional relationships through openness, kindness, and collaboration. 
+
 <!--
 **frankaz/frankaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
