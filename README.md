@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Research Interests:
+- Human-Centered AI
+- Computer Vision
+- Human-AI Collaboration
+
+ORCID: https://orcid.org/0009-0001-0899-1326
