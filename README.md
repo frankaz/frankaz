@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Research Interests:
-• Human-Centered AI
-• Computer Vision
-• Human-AI Collaboration
-• Computational Photography
+- Human-Centered AI
+- Computer Vision
+- Human-AI Collaboration
+- Computational Photography
 
 Links:
-• ORCID: https://orcid.org/0009-0001-0899-1326
-• Google Scholar: https://scholar.google.com/citations?hl=en&user=SAtnInkAAAAJ
+- ORCID: https://orcid.org/0009-0001-0899-1326
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=SAtnInkAAAAJ
